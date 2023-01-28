@@ -37,10 +37,10 @@ const Company = () => {
       </div>
 
       <div className='w-full grid grid-cols-2 gap-3'>
-        <a href='https://linkedin.com' target='_blank' className='bg-stone-100 mt-4 h-[50px] rounded-xl flex items-center justify-center gap-2'>
+        <a href='https://linkedin.com' target='_blank' rel="noreferrer" className='bg-stone-100 mt-4 h-[50px] rounded-xl flex items-center justify-center gap-2'>
           <BsLinkedin /> Linkedin Link
         </a>
-        <a href='https://linkedin.com' target='_blank' className='bg-stone-100 mt-4 h-[50px] rounded-xl flex items-center justify-center gap-2'>
+        <a href='https://linkedin.com' target='_blank' rel="noreferrer" className='bg-stone-100 mt-4 h-[50px] rounded-xl flex items-center justify-center gap-2'>
           <BsChat /> Chat
         </a>
       </div>

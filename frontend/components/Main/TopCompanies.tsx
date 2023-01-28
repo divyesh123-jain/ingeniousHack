@@ -11,7 +11,7 @@ const TopCompanies = ({ data }:{data:obj[]}) => {
             <h3 className='text-xl font-semibold'>Top Companies</h3>
             <div className='grid grid-cols-3 gap-8 grid-rows-1'>
 
-                {data.map((d)=><TopCompanyBox name={d.Name} percentage={d.Profit_Growth} />)}
+                {data.map((d)=><TopCompanyBox key = {d.Name} name={d.Name} percentage={d.Profit_Growth} />)}
                 
                 {/* <TopCompanyBox name="FaceBook" percentage={5} />
                 <TopCompanyBox name="Instagram" percentage={8} /> */}
