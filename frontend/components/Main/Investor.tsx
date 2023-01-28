@@ -22,7 +22,7 @@ const Investor = () => {
 
   const [data,setData] = useState([])
   const getData = async () => {
-    const res = await fetch(`http://localhost:4000/`)
+    const res = await fetch(`https://gro-backend.vercel.app/`)
     const result = await res.json()
     return result
 
@@ -33,7 +33,7 @@ const Investor = () => {
         <div className='flex gap-6'>
             <div className='bg-stone-100 px-8 flex relative overflow-hidden flex-col justify-center items-start w-[550px] h-[300px] rounded-xl'>
                 <h2 className='text-2xl font-semibold'>Total Investment</h2>
-                <h1 className='text-[3rem] font-semibold'>$ {(100000).toLocaleString()}</h1>
+                <h1 className='text-[3rem] font-semibold'>$ {10000}</h1>
                 <img src="/rocket.png" alt="rocket" className='-rotate-[90deg] -bottom-10 -right-10 absolute' />
             </div>
             <div className='grow bg-black/80 relative overflow-hidden p-8 text-white  rounded-xl'>
