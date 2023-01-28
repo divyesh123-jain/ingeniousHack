@@ -1,11 +1,5 @@
 # ingeniousHack
-repo for the website which helps investors and entrepenure to find each other
-<<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/divyesh123-jain/startup-lookup">
-   
-  </a>
+
 
   <h3 align="center">GRO</h3>
 
