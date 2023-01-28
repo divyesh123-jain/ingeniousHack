@@ -7,7 +7,7 @@ repo for the website which helps investors and entrepenure to find each other
    
   </a>
 
-  <h3 align="center">Inʌent</h3>
+  <h3 align="center">GRO</h3>
 
   <p align="center">
    Inʌent is a platform which helps investors and entrepenure to connect with eachother
