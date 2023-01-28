@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Aisle",
+        "domain": "Fintech",
+        "Funding": "0.5",
+        "Enterprise Value": "8",
+        "Market Cap": "2",
+        "Spend Analysis": {
+            "R&D Spend": "162597.8",
+            "Administration": "151377.69",
+            "Marketing": "443898.63"
+        },
+        "Revenue": "966293.33",
+        "Tax": "144943.9995",
+        "Profit": "191792.16",
+        "Sales Growth": "14 %",
+        "Profit Growth": "9 %"
+    }
+]
