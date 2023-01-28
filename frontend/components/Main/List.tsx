@@ -30,7 +30,7 @@ const List = ({ data }: { data: obj[] }) => {
                         data?.map((d: obj) => {
                             return (
                     
-                                    <tr onClick={()=>changePage(d.Name)} className="bg-white border-b ">
+                                    <tr key = {d.Name} onClick={()=>changePage(d.Name)} className="bg-white border-b ">
                                         <th scope="row" className="px-6 py-4 font-medium text-black whitespace-nowrap">
                                             {d.Name}
                                         </th>
