@@ -75,7 +75,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 ![1200px-Nextjs-logo svg](https://user-images.githubusercontent.com/97737499/187042159-1fe639c9-ab5b-4541-b433-f5cc67cb202b.png)
 
 ![1_vJQobI4oS3MmpTWqerBcKw](https://user-images.githubusercontent.com/97737499/187041936-bd1ae31d-f0a6-4736-9b36-80b224ce4602.png)
-![1_eCoqJKb-QnoxWFPsjyqU0g](https://user-images.githubusercontent.com/97737499/187042120-d9b8968c-fb8b-4372-906c-dca8d80f0928.png)
+
 ![download](https://user-images.githubusercontent.com/97737499/187042125-f3935498-1c10-4ad3-ae5c-20d9f68e6220.png)
 
 
