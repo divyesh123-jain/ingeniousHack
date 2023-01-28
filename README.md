@@ -135,27 +135,11 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 
 ## Usage
-![WhatsApp Image 2022-08-27 at 10 59 59 PM](https://user-images.githubusercontent.com/97737499/187041600-7ee4009e-6c61-44e7-bd07-caebd99d2958.jpeg)
-![WhatsApp Image 2022-08-27 at 10 39 32 PM](https://user-images.githubusercontent.com/97737499/187041601-65f59ead-c6b6-475c-a98d-06cd53162ce9.jpeg)
-![WhatsApp Image 2022-08-27 at 10 39 36 PM](https://user-images.githubusercontent.com/97737499/187041602-e43ab287-72fa-4c9a-b5e4-febdd3e2c5a8.jpeg)
-![WhatsApp Image 2022-08-27 at 10 39 37 PM](https://user-images.githubusercontent.com/97737499/187041605-8b43275c-5547-4916-b657-9af5f22ff3ad.jpeg)
-![WhatsApp Image 2022-08-27 at 10 39 37 PM (1)](https://user-images.githubusercontent.com/97737499/187041606-fd06dc27-794d-4c9c-acf9-7634ad7c2158.jpeg)
-![WhatsApp Image 2022-08-27 at 10 39 39 PM](https://user-images.githubusercontent.com/97737499/187041607-56e67c2f-ecdd-46b3-b00f-5a206a50600e.jpeg)
-![WhatsApp Image 2022-08-27 at 10 39 39 PM (1)](https://user-images.githubusercontent.com/97737499/187041608-344d1313-a16d-4300-a336-f6a7dd1efa38.jpeg)
-![WhatsApp Image 2022-08-27 at 10 39 40 PM](https://user-images.githubusercontent.com/97737499/187041610-708dad56-5958-4f46-b0c3-992ded5e60b3.jpeg)
-![WhatsApp Image 2022-08-27 at 10 39 44 PM](https://user-images.githubusercontent.com/97737499/187041611-dc7cdaac-78f8-4979-826f-66d7eb357f86.jpeg)
-![Screenshot (163)](https://user-images.githubusercontent.com/97737499/187041613-2664ccfd-1d8d-4c1a-9b24-cc45d3ed9606.png)
-
-
-# After Signup
-
-![Screenshot (160)](https://user-images.githubusercontent.com/97737499/187038121-82b4b9f5-2376-4115-8fc8-3ce0dd296407.png)
-
-![Screenshot (161)](https://user-images.githubusercontent.com/97737499/187038128-95012374-34cf-468a-b9e5-97fa580fda51.png)
-
-![Screenshot (162)](https://user-images.githubusercontent.com/97737499/187038186-422af9fe-444e-429c-a080-53eee61f4bfe.png)
-
-
+![Screenshot (42)](https://user-images.githubusercontent.com/97737499/215285709-6c5fa51b-d3b8-42f8-9ebf-fb99a6522baa.png)
+![Screenshot (43)](https://user-images.githubusercontent.com/97737499/215285713-aa6fd17c-0357-4804-b5a8-d610a5c03040.png)
+![Screenshot 2023-01-28 174758](https://user-images.githubusercontent.com/97737499/215285719-188bcde3-4a8f-4b2b-bdbb-70ed33337f4d.png)
+![Screenshot 2023-01-28 175026](https://user-images.githubusercontent.com/97737499/215285722-0a6747ff-ee4b-41d3-b15b-46e3cfe3be36.png)
+![Screenshot 2023-01-28 175202](https://user-images.githubusercontent.com/97737499/215285724-318c4457-59ab-4120-89ee-126d9f2dbec4.png)
 
 
 
